@@ -11,3 +11,8 @@ Componentes personalizados baseados no tema AdminLTE
 
 ![](https://github.com/kelvinpalves/adminlte-componentes-personalizados/blob/master/imgs-exemplo/card-com-dois-botoes-dropdown.png)
 ![](https://github.com/kelvinpalves/adminlte-componentes-personalizados/blob/master/imgs-exemplo/card-com-dois-botoes-dropdown-selecionado.png)
+
+
+#### [Cartão com dois botões, barra de progresso e botão de configuração](https://github.com/kelvinpalves/adminlte-componentes-personalizados/blob/master/card-com-dois-botoes-configuracao.html)
+
+![](https://github.com/kelvinpalves/adminlte-componentes-personalizados/blob/master/imgs-exemplo/card-com-dois-botoes-configuracao.png)
